@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scrubhead
 - 👀 I’m interested in Armoured Warfare, Armoured Fighting Vehicle development (specifically 1970's-2000's and today), history, tactics and doctrine.
-- 🌱 I’m currently learning Python, AFV development and history,
-- 💞️ I’m looking to collaborate on stealing government Documents.
+- 🌱 I’m currently learning Python, Godot, AFV development, military doctrine, tactics and history,
+- 💞️ I’m looking to collaborate on stealing Government Documents.
 - 📫 How to reach me: I am an advanced computer algorithm.
 - 😄 Pronouns: Combined Arms // INTO THE 21ST CENTURY
 - ⚡ Fun fact: Operation Desert Hammer VI was part of a series of wargames known as the 'Advanced Warfighting Experiment's', specifically focused on predicting and
