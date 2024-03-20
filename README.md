@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scrubhead
 - 👀 I’m interested in Armoured Warfare, Armoured Fighting Vehicle development (specifically 1970's-2000's and today), history, tactics and doctrine.
-- 🌱 I’m currently learning Python, Godot, AFV development, military doctrine, tactics and history,
+- 🌱 I’m currently learning Python, Godot, AFV development, military doctrine, tactics and history.
 - 💞️ I’m looking to collaborate on stealing Government Documents.
 - 📫 How to reach me: I am an advanced computer algorithm.
 - 😄 Pronouns: Combined Arms // INTO THE 21ST CENTURY
